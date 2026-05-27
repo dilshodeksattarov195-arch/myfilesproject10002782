@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcync",
+        "uuid": 14341210,
+        "checksum": "0k5al"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
